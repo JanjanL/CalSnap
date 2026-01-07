@@ -7,6 +7,9 @@ CalSnap is a Python application designed to extract and process calendar-related
 - **Image Text Extraction**: Extracts text from images using OCR.
 - **Time Parsing**: Utilizes Duckling for accurate natural language date and time parsing.
 - **Event Creation**: Allows users to create calendar events based on extracted information.
+- **Recurring Events**: Upcoming versions will include functionality for creating and managing recurring events.
+- **User Interface**: Upcoming versions will feature an improved user interface for ease of use.
+
 
 ## Getting Started
 
@@ -62,3 +65,4 @@ Distributed under the License. See `LICENSE` for more information.
 JanjanL - [leungjingyi@gmail.com]
 
 Project Link: [CalSnap GitHub Repository](https://github.com/JanjanL/CalSnap)
+
